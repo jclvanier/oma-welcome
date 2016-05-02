@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: oma-welcome\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-09-26 08:49-0500\n"
+"PO-Revision-Date: 2016-05-02 15:23+0100\n"
 "Last-Translator: Luthfi Emka <panahbiru@gmail.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/oma-welcome/"
 "language/fr/)\n"
@@ -14,6 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.1\n"
 
 #: translation:8
 msgid "Hi"
@@ -340,6 +341,8 @@ msgid ""
 "LibreCAD is a Qt4 application to design 2D cad drawing based on the "
 "community edition of QCad."
 msgstr ""
+"LibreCAD est une application Qt4 pour concevoir des plans en 2D et fondée "
+"sur l'édition communautaire de QCad."
 
 #: translation:74
 msgid "Codecs"
@@ -363,6 +366,8 @@ msgid ""
 "Edit, record and import many sound file formats, such as WAV, AIFF, MP3 and "
 "Ogg/Vorbis"
 msgstr ""
+"Éditer, enregistrer et importer un grand nombre de formats de fichiers son "
+"comme WAV, AIFF, MP3 et Ogg/Vorbis"
 
 #: translation:78
 msgid "Kdenlive"
@@ -373,6 +378,8 @@ msgid ""
 "Kdenlive is a non-linear video editor for KDE that relies on a separate "
 "renderer and supports multi-track editing"
 msgstr ""
+"Kdenlive est un éditeur vidéo non linéaire pour KDE qui repose sur un moteur "
+"de rendu séparé et supporte l'édition multi-piste"
 
 #: translation:80
 msgid "Devede"
@@ -400,7 +407,7 @@ msgstr "Kaudiocreator"
 #: translation:85
 msgid ""
 "Backup your CDs using this KDE tool and avoid losing your songs to scratches"
-msgstr ""
+msgstr "Sauvegardez vos CDs musicaux avec cet outil KDE"
 
 #: translation:86
 msgid "SMPlayer"
@@ -412,7 +419,7 @@ msgid ""
 "SMPlayer is a graphical front-end for MPlayer, cross-platform and supports "
 "various audio/video formats."
 msgstr ""
-"MPlayer est une interface graphique pour MPlayer, multi-plateforme et qui "
+"SMPlayer est une interface graphique pour MPlayer, multi-plateforme et qui "
 "supporte différents formats audio / vidéo."
 
 #: translation:88
@@ -424,6 +431,8 @@ msgid ""
 "Watch various video formats, IPTV and YouTube videos; capture video and "
 "audio from your desktop"
 msgstr ""
+"Regardez différents formats vidéo, IPTV, YouTube; capturez sons et vidéos "
+"depuis votre bureau"
 
 #: translation:90
 msgid "Miro Player"
@@ -463,7 +472,7 @@ msgstr "Stream"
 
 #: translation:99
 msgid "Launcher for the Valve's Steam game distribution service."
-msgstr ""
+msgstr "Lanceur pour le service de distribution Steam de Valve"
 
 #: translation:100
 msgid "Wine"
@@ -472,6 +481,8 @@ msgstr "Wine"
 #: translation:101
 msgid "Wine allows you to run many Microsoft Windows programs on Linux"
 msgstr ""
+"Wine vous permet de faire tourner un grand nombre de programmes Microsoft "
+"sur Linux"
 
 #: translation:102
 msgid "Skype"
@@ -505,6 +516,8 @@ msgid ""
 "Open and create RAR files with Ark, the default archive manager in "
 "OpenMandriva Lx"
 msgstr ""
+"Ouvrez et créez de fichiers RAR avec Ark, le gestionnaire d'archives "
+"implicite dans OmLx"
 
 #: translation:110
 msgid "Dia"
@@ -512,15 +525,15 @@ msgstr "Dia"
 
 #: translation:111
 msgid "Dia is a program to draw structured diagrams."
-msgstr ""
+msgstr "Dia vous permet de créer des diagrams structurés"
 
 #: translation:112
 msgid "Calligra"
-msgstr ""
+msgstr "Calligra"
 
 #: translation:113
 msgid "Office applications for the K Desktop Environment."
-msgstr ""
+msgstr "Applications bureautiques pour KDE"
 
 #: translation:114
 msgid "Semantik"
@@ -528,7 +541,7 @@ msgstr "Semantik"
 
 #: translation:115
 msgid "A mindmapping and brainstorming tool"
-msgstr "Outil de cartographie conceptuelle et de brainstorming"
+msgstr "Outil de cartographie conceptuelle et de réflexion"
 
 #: translation:116
 msgid "Kraft"
@@ -565,13 +578,15 @@ msgstr "Comptabilité personnelle libre et facile pour tous"
 
 #: translation:127
 msgid "How to contribute to OpenMandriva"
-msgstr ""
+msgstr "Comment contribuer"
 
 #: translation:128
 msgid ""
 "So you really like OpenMandriva Lx and are eager to help? You can contribute "
 "in various ways:"
 msgstr ""
+"Vous appréciez vraiment OpenMandriva Lx et vous souhaitez aider ? Vous "
+"pouvez contribuer de différentes manières :"
 
 #: translation:129
 msgid "Manual"
@@ -582,14 +597,16 @@ msgid ""
 "Help improve a simple step-by-step guide for installing and configuring "
 "OpenMandriva Lx"
 msgstr ""
+"Aidez à améliorer un guide simple pour installer et configurer pas à pas "
+"OpenMandriva Lx"
 
 #: translation:131
 msgid "Forums"
 msgstr "Forums"
 
 #: translation:132
-msgid "Become a member at our forums, answer questions and help others"
-msgstr ""
+msgid "Become a member at our forum, answer questions and help others"
+msgstr "Devenez membre du forum, répndez aux questions et aidez les autres"
 
 #: translation:133
 msgid "Translating"
@@ -605,7 +622,7 @@ msgstr "Rejoindre l'équipe de développement d' OpenMandriva Lx"
 
 #: translation:136
 msgid "Cooker is the development branch of OpenMandriva Lx"
-msgstr ""
+msgstr "Cooker est la branche de développement de OpenMandriva Lx"
 
 #: translation:137
 msgid "Artwork"
@@ -614,6 +631,7 @@ msgstr "Illustrations"
 #: translation:138
 msgid "Use your talent to create new artwork for OpenMandriva Lx"
 msgstr ""
+"Utilisez vos talents pour créer de nouveaux visuels pour OpenMandriva Lx"
 
 #: translation:139
 msgid "Mailing list"
@@ -621,15 +639,15 @@ msgstr "Liste de diffusion"
 
 #: translation:140
 msgid "Join the discussion list of OpenMandriva"
-msgstr ""
+msgstr "Rejoignez la liste de discussion de OpemMandriva Lx"
 
 #: translation:141
 msgid "Report Bug"
 msgstr "Rapport de bogue"
 
 #: translation:142
-msgid "Search, report and fix bugs (issues?) in OpenMandriva Lx"
-msgstr ""
+msgid "Search, report and fix bugs / issues in OpenMandriva Lx"
+msgstr "Recherchez, rapportez et corrigez les bogues dans OpenMandriva Lx"
 
 #: translation:143
 msgid "Join in the IRC channel"
@@ -637,7 +655,7 @@ msgstr "Rejoindre le canal IRC"
 
 #: translation:144
 msgid "openmandriva-cooker is OpenMandriva's main IRC channel"
-msgstr ""
+msgstr "openmandriva-cooker est le principal canal IRC d'OpenMandriva"
 
 #: translation:145
 msgid "Donation"
@@ -652,12 +670,12 @@ msgstr ""
 "OpenMandriva Lx"
 
 #: translation:147
-msgid "Do not start oma-welcome on login"
-msgstr ""
+msgid "Do not start om-welcome on login"
+msgstr "Ne pas ouvrir om-welcome au démarrage"
 
 #: translation:148
-msgid "Make oma-welcome start on login"
-msgstr ""
+msgid "Make om-welcome start on login"
+msgstr "Ouvrir om-welcome au démarrage"
 
 #: translation:149
 msgid "Finish"
@@ -688,6 +706,7 @@ msgstr "Il utilise python-qt4-webkit, web.py et bigbashview."
 #: translation:159
 msgid "For bugs, suggestions and improvements, please head to "
 msgstr ""
+"Pour les bogues, suggestions et améliorations, veuillez vous reporter à "
 
 #: translation:162
 msgid "You are using"
@@ -715,7 +734,7 @@ msgstr "0ad"
 
 #: translation:169
 msgid "Cross-platform RTS Game of Ancient Warfare​"
-msgstr ""
+msgstr "Jeu RTS Ancient Warfare multi-plate-forme"
 
 #: translation:170
 msgid "MegaGlest"
@@ -751,13 +770,13 @@ msgstr "Le simulateur de course de voitures open source"
 
 #: translation:178
 msgid "SuperTux"
-msgstr ""
+msgstr "SuperTux"
 
 #: translation:179
 msgid ""
 "SuperTux is a classic 2D jump'n run sidescroller game in a similar style "
 "like the original SuperMario games."
-msgstr ""
+msgstr "SuperTux est un jeu 2D classique simalaire à SuperMario"
 
 #: translation:180
 msgid "Warzone 2100"
@@ -765,7 +784,7 @@ msgstr ""
 
 #: translation:181
 msgid "Postnuclear War realtime strategy games"
-msgstr ""
+msgstr "Jeux de stratégie temps réel se situant après la guerre nuléaire"
 
 #: translation:182
 msgid "Filezilla"
@@ -800,6 +819,8 @@ msgid ""
 "Grsync is a GUI for rsync. While it can work with remote hosts, its focus is "
 "to synchronize local directories."
 msgstr ""
+"Grsync est une interface graphiwue pour rsync. Bien qu'il puisse travailler "
+"sur des hôtes distants, son objet est de synchroniser des dossiers locaux."
 
 #: translation:190
 msgid "New Features and Major Changes"
@@ -812,6 +833,10 @@ msgid ""
 "we've tried to evolve the way you use your desktop. Here are some of the "
 "things we've done for 2014.2:"
 msgstr ""
+"C'est la troisième release, nommée <span class='username'>Phosphorus</span>, "
+"de l'association OpenMandriva !Durant l'année passée, nous avons essayé de "
+"faire évoluer la manière dont vous utilisez votre bureau. Voici quelques-"
+"unes des choses que nous avons faites pour la 2014.2 :"
 
 #: translation:192
 msgid "Control Center"
@@ -828,6 +853,10 @@ msgid ""
 "Amarok, Plasma Media Center, Plasma NetworkManager applet, KMail, VLC "
 "Player, Mozilla Firefox 38, Systemd 208 and the brand new Firewalld."
 msgstr ""
+"Certains paquets récents sont inclus avec cette version comme Homerun Kicker "
+"(menu par défaut), Krita (dessin), Kamoso (webcam), Amarok, Plasma Media "
+"Center, appliquette Plasma NetworkManager, KMail, lecteur VLC, Mozilla "
+"Firefox, Systemd 208 et le nouveau Firewalld."
 
 #: translation:195
 msgid ""
@@ -845,6 +874,20 @@ msgid ""
 "wiki.run' class='titlePage'>https://wiki.openmandriva.org/en/Kernel</a> for "
 "more information."
 msgstr ""
+"OpenMandriva Lx contient un nouveau noyau appelé NJQL. Le mode NRJ ajoute "
+"une capacité d'accélération du CPU et de préemption totale au mécanisme RCU. "
+"Le mode QL est un jeu de patchs améliorant les optimisations dans les "
+"domaines de l'ordonnancement avec BFS, des entrées/sortie disques avec BFQ, "
+"de la gestion mémoire avec UKSM, Tux on Ice pour la suspension et "
+"l'hibernation, chacun étant conçu avec, à l'esprit, la performance et la "
+"réactivité du système. <br/>\n"
+"<b>Quoi de neuf:</b> HT/SMT NICE validé par défaut pour une meilleure "
+"réactivité et un comportement temps réel sur tout PC avec Hyper-Threading, "
+"amélioration des performances des applications au premier plan aux dépends "
+"des tâches de fond. Les application graphiques resteront rapides même si "
+"vous lancez folding@home, mprime, seti@home, etc. Veuillez vous reporter à  "
+"<a href='./apps/open-kernel-wiki.run' class='titlePage'>https://wiki."
+"openmandriva.org/fr/Kernel</a> pour plus d'informations."
 
 #: translation:197
 #, fuzzy
@@ -881,6 +924,11 @@ msgid ""
 "internal fixes that are not noticeable by regular users, but some are "
 "actually interesting"
 msgstr ""
+"Le toute dernière version stable LibreOffice 4.4.3 est disponible. Vous "
+"pouvez donc compter sur pour ne pas compromettre vos précieuses données. "
+"Comme d'habitude, il y a un grand nombre d'améliorations mineures, la "
+"plupart d'entre elles étant des corrections internes non discernables par "
+"les ustilisateurs, mais quelques unes sont en fait intéressantes"
 
 #: translation:199
 msgid ""
@@ -892,6 +940,13 @@ msgid ""
 "- Local Disks/Partition Manager<br/>\n"
 "- System Security<br/>"
 msgstr ""
+"Le Centre de Contrôle OpenMandriva (drakconf) est également présent. C'est "
+"une ensemble d'outils pour vous aider à configurer votre système: <br/>\n"
+"- Gestionnaire de logiciels<br/>\n"
+"- Matériel<br/>\n"
+"- Réseau, Internet & Partages<br/>\n"
+"- Gestionnaire des partitions / disques locaux<br/>\n"
+"- Sécurité du système<br/>"
 
 #: translation:205
 msgid ""
@@ -902,6 +957,12 @@ msgid ""
 "reports at <a href='./apps/open-bugzilla.run' class='blue'>issues."
 "openmandriva.org</a>"
 msgstr ""
+"C'est la première version d'OpenMandriva Lx qui comprend un support "
+"focntionnel du démarrage EFI. Nous n'avons pu effectuer qu'un nombre de "
+"tests limités et nous apprécierions les retours d'expériences des "
+"utilisateurs. Il devrait être possible de démarrer le système live sur la "
+"plupart des machines. Merci de rapporter les bogues à  <a href='./apps/open-"
+"bugzilla.run' class='blue'>issues.openmandriva.org</a>"
 
 #: translation:206
 msgid ""
@@ -913,6 +974,12 @@ msgid ""
 "to ABF/OpenMandriva development at <a href='./apps/open-abf.run' "
 "class='titlePage'>http://abf.io</a>"
 msgstr ""
+"Toutes les versions OpenMandriva sont créées en utilisant une plate-forme "
+"avancée : Automated Build Farm. ABF est un environnement distribué destiné à "
+"la construction de distributions et qui supporte tout de la gestion des "
+"codes sources à la création des images ISO. Vous pouvez voir, vous inscrire "
+"et contribuer a ABF / OpenMandriva à <a href='./apps/open-abf.run' "
+"class='titlePage'>http://abf.io</a>"
 
 #: translation:209
 msgid "C/C++ Compilers Suite "
@@ -923,6 +990,8 @@ msgid ""
 "This is GNU Cross Compiler (GCC) package, including necessary tools for "
 "development like gcc-c++, make, autoconf etc."
 msgstr ""
+"C'est le paquet GNU Cross Compiler (GCC) qui comprend les outils nécessaires "
+"au développement comme gcc-c++, make, autoconf etc."
 
 #: translation:211
 msgid "KDevelop"
@@ -933,6 +1002,8 @@ msgid ""
 "The KDevelop Integrated Development Environment providing a unified "
 "interface to programs like gdb, the C/C++ compiler, and make"
 msgstr ""
+"L'environnement de développement intégré Kdevelop fournit une interface "
+"unifiée pour des programmes comme gdb, le compilateur C/C++, et make"
 
 #: translation:213
 msgid "Geany IDE"
@@ -943,6 +1014,8 @@ msgid ""
 "Geany is a small C editor using GTK2 with basic features of an integrated "
 "development environment."
 msgstr ""
+"Geany est éditeur C léger utilisant GTK2 comme base d'un environnement de "
+"développement intégré."
 
 #: translation:215
 msgid "Eclipse IDE"
@@ -953,6 +1026,8 @@ msgid ""
 "Eclipse IDE contains a base workspace and an extensible plug-in system, "
 "mostly used by Java Developers"
 msgstr ""
+"Eclipse IDE contient un espace de travail et un système de greffons "
+"extensible, utilisé principalement par les développeurs Java"
 
 #: translation:217
 msgid "Qt-Creator"
@@ -963,6 +1038,8 @@ msgid ""
 "Qt Creator is a lightweight, cross-platform integrated development "
 "environment (IDE)"
 msgstr ""
+"Qt Creator est un environnement de développement intégré (EDI) léger et "
+"multi-plate-forme"
 
 #: translation:219
 msgid "Qt-Designer"
@@ -973,6 +1050,8 @@ msgid ""
 "The Qt Designer is a visual design tool that makes designing and "
 "implementing user interfaces a lot easier"
 msgstr ""
+"Qt Designer est un outil de conception visuel qui rend la creation et "
+"l'implémentation des interfaces utilisateur beaucoup plus faciles"
 
 #: translation:221
 msgid "RPM Packaging"
@@ -980,7 +1059,7 @@ msgstr ""
 
 #: translation:222
 msgid "RPM Packaging suite, including rpmbuild, rpmlint, etc."
-msgstr ""
+msgstr "Suite d'outils RPM incluant rpmbuilt, rpmlint, etc."
 
 #: translation:223
 msgid "Gambas IDE"
@@ -991,6 +1070,9 @@ msgid ""
 "Gambas Almost BASIC, designed to build graphical applications programs using "
 "the Qt/GTK+ toolkit with Visual Basic (TM) like workflow"
 msgstr ""
+"Gambas AlMost BASic, conçu pour construire des applications graphiques "
+"utilisant le tollkit Qt/GTK+ avec une flux de production semblable à Visual "
+"Basic (TM)"
 
 #: translation:227
 msgid "Chromium Browser"
@@ -1001,6 +1083,8 @@ msgid ""
 "Chromium serves as a base for Google Chrome, an open-source browser project "
 "that aims to build a safer, faster, and more stable"
 msgstr ""
+"Chromium est la base de Google Chrome, un projet open-source qui se veut "
+"plus plus sûr, plus rapide et plus stable"
 
 #: translation:229
 msgid "Mozilla Thunderbird"
@@ -1011,6 +1095,8 @@ msgid ""
 "Thunderbird is a full-featured email, RSS and newsgroup client that makes "
 "emailing safer, faster and easier"
 msgstr ""
+"Thunderbird est client complet pour la messagerie, le RSS et les newsgroups "
+"pour une correspondance plus sûre, plus rapide et plus facile"
 
 #: translation:231
 msgid "Pidgin"
@@ -1021,6 +1107,8 @@ msgid ""
 "Pidgin is a graphical, modular instant messaging client capable of using "
 "multiple networks at once."
 msgstr ""
+"Pidgin est client de messagerie instantanée graphique et modulaire capable "
+"d'utiliser plusieurs réseaux à la fois."
 
 #: translation:233
 msgid "Choqok"
@@ -1028,7 +1116,7 @@ msgstr ""
 
 #: translation:234
 msgid "Choqok is microblogging client for KDE"
-msgstr ""
+msgstr "Choqok est un client microblog pour KDE"
 
 #: translation:235
 msgid "XTreme Download Manager"
@@ -1039,6 +1127,8 @@ msgid ""
 "Xtreme Download Manager is a powerful tool to increase download speed up-to "
 "500%, resume broken/dead downloads, etc"
 msgstr ""
+"Xtreme Download Manager est un outil puissant pour augmenter la vitesse de "
+"téléchargement jusqu'à 500%, avec reprise en cas d'interruption , etc. "
 
 #: translation:237
 msgid "Maxthon Browser"
@@ -1049,6 +1139,8 @@ msgid ""
 "Cross-platform, fast, and ready to use web browser with Adblock Plus enabled "
 "by default"
 msgstr ""
+"navigateur web multi-plate-forme, rapide et près à l'emploi avec Adblock "
+"plus activé."
 
 #: translation:239
 msgid "Dropbox"
@@ -1059,3 +1151,5 @@ msgid ""
 "Dropbox is a free service that lets you bring your photos, docs, and videos "
 "anywhere and share them easily"
 msgstr ""
+"Dropbox est un service gratuit qui vous permet de partager aisément vos "
+"photos, documents et vidéos"
